@@ -1,3 +1,8 @@
+> **foxnaim** · Простая касса (point-of-sale) для приёма платежей Lightning Bitcoin
+>
+> Готовая основа под клиентский проект. Стек: JavaScript.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # nanopos
 
 [![npm release](https://img.shields.io/npm/v/nanopos.svg)](https://www.npmjs.com/package/nanopos)
